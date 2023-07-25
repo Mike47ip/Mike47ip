@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
 
-- 💬 About me **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
+- 💬 About me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
 
 - 📫 How to reach me **agyemankojo47@gmail.com**
 
