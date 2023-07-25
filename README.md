@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
+<img alt="banner" width="400" src= "https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-- 💬 About me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
+- 💬 Ask about me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
 
 - 📫 How to reach me **agyemankojo47@gmail.com**
 
@@ -9,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@ip_mikee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ip_mikee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael darkwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael darkwah" height="30" width="40" /></a>
 </p>
 
