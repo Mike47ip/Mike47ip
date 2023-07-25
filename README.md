@@ -2,7 +2,7 @@
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
 <img alt="banner" width="100%" src= "https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
-- 💬 Ask about me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
+- 💬 Ask about me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining & construction, banking, graphic design and software companies.**
 
 - 📫 How to reach me **agyemankojo47@gmail.com**
 
