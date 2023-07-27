@@ -4,7 +4,7 @@
 
 - 💬 Ask about me: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining & construction, banking, graphic design and software companies.**
 
-- 💬 I am available for hire!
+- 💬 **I am available for hire!**
 
 - 📫 How to reach me **agyemankojo47@gmail.com**
 
