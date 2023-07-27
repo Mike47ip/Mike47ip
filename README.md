@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+<div align="center" width="100%"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=4000&color=F7E822&center=true&width=500&lines=Hello!+My+name+is+Mike" alt="Typing SVG" /></a></div>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
 <img alt="banner" width="100%" src= "https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
