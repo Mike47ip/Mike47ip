@@ -1,7 +1,7 @@
 <div align="center" width="100%"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=4000&color=F7E800&center=true&width=500&lines=Hello!+My+name+is+Mike" alt="Typing SVG" /></a></div>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
 
-- 💬 Ask me about **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
+- 💬 About me?: **I am a multi-talented young man with versatile skills set making me a "Jack of All Trades". I have worked with the mining and construction, banking, software companies.**
 
 - 📫 How to reach me **agyemankojo47@gmail.com**
 
